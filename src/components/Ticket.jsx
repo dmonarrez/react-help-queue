@@ -25,4 +25,5 @@ Ticket.propTypes = {
   issue: PropTypes.string
 };
 
+
 export default Ticket;
